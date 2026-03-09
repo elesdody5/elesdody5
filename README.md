@@ -19,6 +19,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently working on [Medically](https://github.com/elesdody5/Medically) — a healthcare mobile app
+- 👨‍🏫 Teaching Developer at **[Information Technology Institute (ITI)](https://iti.gov.eg/)**, Egypt — advanced Android topics: **Clean Architecture, Testing & Dependency Injection**
 - 🌱 I'm currently learning **Kotlin Multiplatform Mobile (KMM)**
 - 👨‍💻 All of my projects are available at [github.com/elesdody5](https://github.com/elesdody5)
 - 💬 Ask me about **Android, Flutter, Kotlin, Jetpack Compose**
